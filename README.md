@@ -1,7 +1,7 @@
-
 # test_compendium
 
 <!-- badges: start -->
+
 <!-- badges: end -->
 
 The goal of test_compendium is to ...
@@ -23,3 +23,6 @@ library(test_compendium)
 ## basic example code
 ```
 
+|                             |
+|:---------------------------:|
+| ![](outputs/hist_coral.png) |
