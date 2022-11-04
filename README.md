@@ -8,11 +8,10 @@ The goal of test_compendium is to ...
 
 ## Installation
 
-You can install the development version of test_compendium from [GitHub](https://github.com/) with:
+You can install the development version of test_compendium like so:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("jeannelor/test_compendium")
+# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
 ```
 
 ## Example
